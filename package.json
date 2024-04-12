@@ -1,0 +1,32 @@
+{
+  "name": "keke-balance-main",
+  "version": "1.0.1",
+  "description": "A Node.js module to check Ethereum wallet balance",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/githubac6/keke-balance-main.git"
+  },
+  "keywords": [
+    "keke-balance-main",
+    "ethereum",
+    "gas",
+    "balance",
+    "eth",
+    "crypto"
+  ],
+  "author": "githubac6",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/githubac6/keke-balance-main/issues"
+  },
+  "homepage": "https://github.com/githubac6/keke-balance-main#readme",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "web3": "^1.5.2",
+    "keke-convert-main": "1.0.0"
+  }
+}
